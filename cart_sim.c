@@ -4,7 +4,7 @@
 //  Description    : This is the main program for the CMPSC311 programming
 //                   assignment #2 (beginning of CART interface).
 //
-//   Author        : Patrick McDaniel
+//   Author        : 
 //   Last Modified : Thu Sep 15 14:49:37 EDT 2016
 //
 
